@@ -1,0 +1,3 @@
+# tasks file for anssi
+
+- include: rhel8_minimalanssi.yml
